@@ -1,4 +1,4 @@
-// Program to reverse an array
+// Program to reverse an array of integers
 
 package Array;
 
